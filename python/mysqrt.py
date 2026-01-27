@@ -1,5 +1,5 @@
 from numpy import sqrt
-ax=100000.
+x=100000.
 s_numpy = sqrt(x)
 s=1.
 tol = 1.0E-7
